@@ -1,8 +1,8 @@
 # Bank Telemarketing Campaign Case Study
 
 ## Context:
-* The bank provides financial services/products such as savings accounts, current accounts, debit cards, etc. to its customers. In order to increase its overall revenue, the bank conducts various marketing campaigns for its financial products such as credit cards, term deposits, loans, etc. These campaigns are intended for the bank’s existing customers. However, the marketing campaigns need to be cost-efficient so that the bank not only increases their overall revenues but also the total profit.
-* The bank conducted a telemarketing campaign for one of its financial products ‘Term Deposits’ to help foster long-term relationships with existing customers.
+* The bank offers financial products like savings and current accounts, debit cards, credit cards, term deposits, and loans. To boost revenue, it runs targeted marketing campaigns for these products, aiming for cost-effective approaches that increase both revenue and profit.
+* Recently, the bank conducted a telemarketing campaign promoting term deposits to strengthen long-term relationships with existing customers.
 
 ## Problem: 
 * Even though the bank has implemented some campaigns to foster the opening of term deposits, the outcome was not positive. The previous campaigns fails to attract the desired number of customers with a meagre response rate. Hence, in this current campaign, the bank aims to increase to the number of people who are willing to open term deposit with at target telemarketing.
