@@ -8,9 +8,12 @@
 * Previous campaigns to encourage term deposit openings had low response rates, failing to attract the desired number of customers. In this campaign, the bank aims to increase the number of term deposit openings through targeted telemarketing.
 * To achieve this, identifying customer segments with the highest potential for engagement is essential.
 
-## Task to be done
-* EDA and K-clustering will be used to examine the historical data and inform the decision-making process for targeted customers.
-* The dataset includes direct marketing campaigns from a Portuguese bank, which involved multiple phone calls to assess customer interest in subscribing to a term deposit.
+## Key techniques include:
+* EDA to uncover trends and patterns
+* K-Prototypes clustering for mixed data types (numerical and categorical)
+* Identifying high-potential customer segments
+* Strategic recommendations for improving telemarketing efforts
+
 ## Key insights uncovered: 
 * Retired individuals, students, and unemployed people are promising target groups for the telemarketing campaign.
 * Customers with higher education levels, particularly those with tertiary and high school education, show a greater likelihood of opening a term deposit.
